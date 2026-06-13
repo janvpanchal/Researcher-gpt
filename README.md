@@ -1,4 +1,4 @@
-# ResearchGPT 🎓🤖
+<img width="1920" height="1080" alt="Screenshot 2026-06-13 124653" src="https://github.com/user-attachments/assets/29eabaf5-f672-49aa-a0ec-9da181cbd6ae" /># ResearchGPT 🎓🤖
 
 A modern research paper discovery and management platform with AI-powered Q&A capabilities.
 
@@ -208,6 +208,11 @@ Open `chatbot-test.html` in your browser to verify:
 2. Model availability
 3. Basic generation
 4. RAG functionality
+
+## Output screenshot 
+<img width="1920" height="1080" alt="Screenshot 2026-06-13 124653" src="https://github.com/user-attachments/assets/71aa0c4b-231b-4402-a4b2-b463b795b65b" />
+
+
 
 ## 📖 Usage
 
