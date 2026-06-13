@@ -211,8 +211,11 @@ Open `chatbot-test.html` in your browser to verify:
 
 ## Output screenshot 
 <img width="1920" height="1080" alt="Screenshot 2026-06-13 124653" src="https://github.com/user-attachments/assets/71aa0c4b-231b-4402-a4b2-b463b795b65b" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-13 124902" src="https://github.com/user-attachments/assets/07ca0c55-a2c6-494f-81f4-82176483524a" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-13 124923" src="https://github.com/user-attachments/assets/abbbfaeb-7ca8-4ba1-8d8e-4daa2d9a3cab" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-13 125038" src="https://github.com/user-attachments/assets/ec002384-e1f9-4bc7-a1cc-779e1d6db64d" />
 
-
+## note: the my citation page is static it needs to be implemented 
 
 ## 📖 Usage
 
