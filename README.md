@@ -447,6 +447,7 @@ If you find this project useful, please consider giving it a star ⭐
 Built with ❤️ for researchers, by researchers 
 
 ## Team Credits 
+A special thanks to our reporting guide Dr. Sachin More for his constant support during the implementation of the project.
 
 <a href="https://github.com/janvpanchal">
   <img src="https://github.com/janvpanchal.png" width="80px;" alt="Janvi Panchal"/>
