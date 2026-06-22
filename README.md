@@ -446,8 +446,7 @@ If you find this project useful, please consider giving it a star ⭐
 
 Built with ❤️ for researchers, by researchers 
 
-## Credits 
-## Team
+## Team Credits 
 
 <a href="https://github.com/janvpanchal">
   <img src="https://github.com/janvpanchal.png" width="80px;" alt="Janvi Panchal"/>
