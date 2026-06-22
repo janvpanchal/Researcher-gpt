@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="Screenshot 2026-06-13 124653" src="https://github.com/user-attachments/assets/29eabaf5-f672-49aa-a0ec-9da181cbd6ae" /># ResearchGPT 🎓🤖
-
 A modern research paper discovery and management platform with AI-powered Q&A capabilities.
 
 ![React](https://img.shields.io/badge/React-19.2-blue)
@@ -446,4 +444,23 @@ If you find this project useful, please consider giving it a star ⭐
 
 ---
 
-Built with ❤️ for researchers, by researchers
+Built with ❤️ for researchers, by researchers 
+
+## Credits 
+## Team
+
+<a href="https://github.com/janvpanchal">
+  <img src="https://github.com/janvpanchal.png" width="80px;" alt="Janvi Panchal"/>
+</a>
+
+<a href="https://github.com/shekhar324">
+  <img src="https://github.com/shekhar324.png" width="80px;" alt="Shekhar Pandey"/>
+</a>
+
+<a href="https://github.com/the-vishal-gupta">
+  <img src="https://github.com/the-vishal-gupta.png" width="80px;" alt="Vishal Gupta"/>
+</a>
+
+<a href="https://github.com/armaan-vala">
+  <img src="https://github.com/armaan-vala.png" width="80px;" alt="Armaan Vala"/>
+</a>
